@@ -22,7 +22,7 @@ Todo el diseño está hecho usando Jetpack Compose.
 
 ### Ejecución en el emulador:
 
-![Captura de la tarjeta](screenshots_ejercicio1_2_png.png)
+![Captura de la tarjeta]([screenshots_ejercicio1_2_png.png](https://github.com/AnaCeciG/ipdm-oto-2025-AnaGonzalez_ejercicios-1-2/blob/master/app/src/main/res/drawable-nodpi/screenshots_ejercicio1_2_png.png?raw=true))
 
 > Captura tomada desde el emulador Android Studio
 

@@ -47,5 +47,10 @@ Todo el diseño está hecho usando Jetpack Compose.
 
 ---
 
-## 📂 Estructura del proyecto
+## 👤 Autor
+
+**Ana Gonzalez**  
+Correo: chechi0314@gmail.com  
+Curso: Android Básico con Compose  
+
 

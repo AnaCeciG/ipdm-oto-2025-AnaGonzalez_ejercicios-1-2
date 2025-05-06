@@ -22,8 +22,7 @@ Todo el diseño está hecho usando Jetpack Compose.
 
 ### Ejecución en el emulador:
 
-![Captura de la tarjeta]([drawable-nodpi
-/screenshots_ejercicio1_2_png.png)
+![Captura de la tarjeta](drawable-nodpi/screenshots_ejercicio1_2_png.png)
 
 > Captura tomada desde el emulador Android Studio
 
